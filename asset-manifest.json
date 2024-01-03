@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ou_Loomin_End_Wersion/static/css/main.9e1d8179.css",
-    "main.js": "/Ou_Loomin_End_Wersion/static/js/main.5a5803c4.js",
+    "main.js": "/Ou_Loomin_End_Wersion/static/js/main.2ffb1a1d.js",
     "static/js/787.2866696b.chunk.js": "/Ou_Loomin_End_Wersion/static/js/787.2866696b.chunk.js",
     "static/media/DelaGothicOne-Regular.ttf": "/Ou_Loomin_End_Wersion/static/media/DelaGothicOne-Regular.3e6423cef8188d3106d3.ttf",
     "static/media/Rectangle 5(1).png": "/Ou_Loomin_End_Wersion/static/media/Rectangle 5(1).74f4008fe6112eabab18.png",
@@ -54,11 +54,11 @@
     "static/media/Apple.svg": "/Ou_Loomin_End_Wersion/static/media/Apple.dfc1edff3bd3dc901bd4f7c24237739a.svg",
     "static/media/Polygon.svg": "/Ou_Loomin_End_Wersion/static/media/Polygon.b33dbc44f0bcf76c99208ce6f071adde.svg",
     "main.9e1d8179.css.map": "/Ou_Loomin_End_Wersion/static/css/main.9e1d8179.css.map",
-    "main.5a5803c4.js.map": "/Ou_Loomin_End_Wersion/static/js/main.5a5803c4.js.map",
+    "main.2ffb1a1d.js.map": "/Ou_Loomin_End_Wersion/static/js/main.2ffb1a1d.js.map",
     "787.2866696b.chunk.js.map": "/Ou_Loomin_End_Wersion/static/js/787.2866696b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e1d8179.css",
-    "static/js/main.5a5803c4.js"
+    "static/js/main.2ffb1a1d.js"
   ]
 }
